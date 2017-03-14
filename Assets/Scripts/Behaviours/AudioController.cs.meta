@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 35c99fe1963cce445abe96b33bb420de
+timeCreated: 1485085309
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - chaseLoop: {instanceID: 0}
+  - hitClip: {fileID: 8300000, guid: e5cbc86fb7a14a14399e8bb72199684f, type: 3}
+  - idleLoop: {instanceID: 0}
+  - walkLoop: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

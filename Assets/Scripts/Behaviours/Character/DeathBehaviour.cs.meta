@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0975b8d154466a047b288977d8599427
+timeCreated: 1485084782
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _audioSource: {instanceID: 0}
+  - _explosion: {fileID: 1961290127864966, guid: 82f06af27c344f54ba1a0741a253af0a,
+      type: 2}
+  - _explosionSound: {fileID: 8300000, guid: cbd2ca6b8d302c14e909ac0dd312de0e, type: 3}
+  - _guitarSound: {fileID: 8300000, guid: 1c91bf1fe0880e34e87647d9f9672f85, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
